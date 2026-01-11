@@ -1,2 +1,7 @@
 # ai-ml-stroke-analysis
-Student project for Artificial Intelligence course. This repository contains a machine learning workflow using Python, including data preprocessing and basic modeling on a healthcare dataset.
+Artificial Intelligence (MACHINE LEARNING – Student Project)
+This repository contains a machine learning notebook developed
+as part of an Artificial Intelligence course.
+The project focuses on data preprocessing and basic model
+development using a healthcare dataset.
+Tools: Python, Google Colab, scikit-learn
